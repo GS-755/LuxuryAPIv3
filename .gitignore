@@ -1,0 +1,29 @@
+# Solution catalog
+.vs/
+LuxuryAPIv3/.vs/
+packages/
+.vscode/
+
+# Project debug assets
+LuxuryAPIv3/App_Data/
+# LuxuryAPIv3/bin/LuxuryAPIv3.pdb
+# LuxuryAPIv3/bin/LuxuryAPIv3.dll
+# LuxuryAPIv3/obj/Debug/LuxuryAPIv3.csproj.AssemblyReference.cache
+# LuxuryAPIv3/obj/Debug/LuxuryAPIv3.csproj.CopyComplete
+# LuxuryAPIv3/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+# LuxuryAPIv3/obj/Debug/LuxuryAPIv3.pdb
+LuxuryAPIv3/bin/*
+!/LuxuryAPIv3/bin/roslyn/
+
+# Private config 
+LuxuryAPIv3/Web.config
+LuxuryAPIv3/Web.Debug.config
+LuxuryAPIv3/Web.Release.config 
+
+# Resources folder
+LuxuryAPIv3/Resources/
+# Bootstrap CSS / JS shipped by NuGet
+LuxuryAPIv3/Content/
+LuxuryAPIv3/Scripts/
+# Test place
+LuxuryAPIv3/Test
